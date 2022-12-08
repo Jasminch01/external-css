@@ -1,0 +1,21 @@
+h1{
+    color: red;
+    text-align: center;
+}
+h2{
+    text-align: center;color: blueviolet;
+}
+#div1{ background-color: beige;
+    color: blue;padding:0px 10px 20px 10px;
+     text-align:justify;font-style: italic; font-family: 'Times New Roman', Times, serif;
+
+}
+.fristdiv{background-color: rgba(125, 217, 218, 0.971);
+    text-align: justify; color: blue; font-size: 18px;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; padding:0px 10px 20px 10px;
+}
+#author{
+    text-align:left;color: red;
+}
+.heading{
+    text-align: center; color: brown; padding-top: 20px;
+}
