@@ -1,0 +1,73 @@
+#color{color: orange;
+}
+.container{
+  display: flex;
+}
+.head{
+  font-size:3em;
+}
+body{
+  margin: 0;
+}
+.frist{
+  padding-left: 5%;
+  padding-top: 7%;
+  width: 50%;
+  font-family: 'Poppins', sans-serif;
+  background-image: url(./images/top-banner.png);
+  background-repeat: no-repeat;
+
+}
+.frist img{
+  width: 100%;
+}
+#hire{
+  text-decoration: none;
+  color: white;
+  background-image: linear-gradient(tomato,orange);
+  padding: 5px 15px;
+  border-radius: 10px;
+}
+.resume{
+  display: flex;
+}
+.frist1o{
+  padding-top: 30%;
+  width: 50%;
+  font-family: 'Poppins', sans-serif;
+}
+.frist1 img{
+  width: 100;
+}
+.frist3{
+  background-image: url(/images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position-x: right;
+  background-position-y: center;
+}
+.Expriences{
+  margin-bottom: 50px;
+ 
+}
+.flexible-container{
+  display: flex;
+}
+#ex{font-size: 40px;
+}
+.Expriences{
+  background-image: url(./images/exp-bg.png);
+  background-repeat: no-repeat;
+  background-position-y:center;
+  ba
+}
+#exprience-item{
+  width:50%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding: 5%;
+  box-shadow: 10px 10px 30px gray;
+  border-radius: 10px;
+}
+.full{
+ border-left:10px solid blue;
+}
